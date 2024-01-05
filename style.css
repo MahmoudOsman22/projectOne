@@ -4,3 +4,9 @@ h1{
 body{
     background-color: black;
 }
+p{
+    color: lightpink;
+}
+#second{
+    color: blue;
+}
